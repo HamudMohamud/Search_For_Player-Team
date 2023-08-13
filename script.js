@@ -3,10 +3,11 @@
 let teamName = "chealsea"
 
 
-if(teamName !== "chealsea" && teamName !== "liverpool"); {
+if(teamName !== "chealsea" && teamName !== "liverpool") {
 	console.log("you gotta pick a better team in the English Premier League brodie");
 }
-else {
+
+else{
 	console.log("You picked an amazing team my friend");
 }
 
